@@ -1,4 +1,4 @@
 # Generation Brasil
 
-Exercícios feito de laço condicional if, else e else if.
+Exercícios feitos em Java de laço condicional if, else e else if.
 
